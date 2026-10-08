@@ -1,1 +1,1 @@
-# OKYS-Online-K-t-phane-Y-netim-Sistemi
+# OKYS_OnlineKutuphaneYonetimSistemi
